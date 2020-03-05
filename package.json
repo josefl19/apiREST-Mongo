@@ -1,0 +1,21 @@
+{
+  "name": "apirest",
+  "version": "1.0.0",
+  "description": "api para moviles",
+  "main": "api_moviles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.3",
+    "mongoose-unique-validator": "^2.0.3",
+    "node-pre-gyp": "^0.14.0",
+    "path": "^0.12.7",
+    "underscore": "^1.9.2"
+  }
+}
